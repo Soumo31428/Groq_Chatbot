@@ -33,6 +33,7 @@ This is a streamlined QnA chatbot application built with **Streamlit** and **Lan
 Create a .env file in the project directory and add the following keys:
 ---
 groq_api_key=your_groq_api_key
+---
 langchain_api_key=your_langchain_api_key
 
 
