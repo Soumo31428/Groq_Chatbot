@@ -37,5 +37,5 @@ langchain_api_key=your_langchain_api_key
 
 
 Run the application:
-bash
+```bash
 streamlit run app.py
